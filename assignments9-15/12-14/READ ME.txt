@@ -1,0 +1,4 @@
+the app const of asimple interface as its created for sole purpose for demonstrating functionalities implemented.
+
+
+PHP is a server side language  make sure you have a xammp and running in your machine(my asumption is you are conversant with that)
